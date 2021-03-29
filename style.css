@@ -2,7 +2,13 @@ body{
   background-color: blueviolet;
   
 }
+h1{
+  text-size:100px;
+  text-align:centre;
+  border: 5px solid maroon;
+  
 
+}
 
  
  
