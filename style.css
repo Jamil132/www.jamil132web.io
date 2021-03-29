@@ -14,12 +14,13 @@ h1{
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 100px;
   border-color: maroon;
+  border-width: 900px;
 }
  img{
-   margin: 10px;
+   
    width:900px;
    border: 20px solid dimgray;
-   padding: 20px;
+   
  }
   button{
     color: red;
