@@ -9,16 +9,13 @@ h1{
   text-align: center;
   text-shadow: darkred;
   color: maroon;
-  font-family: Georgia, 'Times New Roman', Times, serif;
-  font-size: 100px;
-  border-color: maroon;
   
 }
  img{
    
    width:900px;
    border: 20px solid dimgray;
-   margin: 5px;
+   margin: 15px;
    
  }
 
@@ -27,6 +24,7 @@ h1{
     font-size: 80px;
     text-align: center;
     border: 20px solid black;
-    width: 900px;
+    width: 950px;
+    padding: 10px;
     
   }
